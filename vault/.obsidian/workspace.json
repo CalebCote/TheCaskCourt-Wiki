@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CaskCourtPublic/index.md",
+                "file": "CaskCourtPublic/Factions/The Cask Court.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "The Cask Court"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CaskCourtPublic/index.md",
+                "file": "CaskCourtPublic/Factions/The Cask Court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CaskCourtPublic/index.md",
+                "file": "CaskCourtPublic/Factions/The Cask Court.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CaskCourtPublic/index.md",
+                "file": "CaskCourtPublic/Factions/The Cask Court.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,7 @@
   },
   "active": "e1eee0c43bd8b0b5",
   "lastOpenFiles": [
-    "CaskCourtPublic/index.md"
+    "CaskCourtPublic/index.md",
+    "index.md"
   ]
 }

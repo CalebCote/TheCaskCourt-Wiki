@@ -8,6 +8,7 @@ The hierarchy follows as such, from least influential to most:
 - Junior Guild Member
 - Guild Member
 - Councilor/Council Member
+
 Where the councilors make major guild decisions and are made up of 7 of the most prolific distillers, winemakers, and brewers.
 ### Core beliefs
 The members of the cask court all share the idea that the stability that peace brings is good for business.
