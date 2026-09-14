@@ -32,7 +32,7 @@ jobs:
         run: npx quartz build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: TheCaskCourt-Wiki/public
+          path: ./public
 
   deploy:
     needs: build
