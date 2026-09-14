@@ -17,7 +17,7 @@ God of:
 - Spirits
 ### Divine Figures
 
-Not “gods” — but **Ascended Ancestors** and **Primal War Spirits**
+Not “gods” necessarily, but **Ascended Ancestors** and **Primal War Spirits** who have achieved enlightenment and immortality as archons.
 
 Most revered:
 

@@ -4,7 +4,7 @@ An isolated maritime (or desert caravan) power.
 
 - Self-sufficient and culturally distinct.
     
-- Magical tradition is slightly stronger here — though still rare.
+- Magical tradition is slightly stronger here, though still rare.
     
 - Their demon seal may be older, stranger, or differently constructed.
     
