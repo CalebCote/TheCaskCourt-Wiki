@@ -1,6 +1,6 @@
 (Loose confederation of city-states and territories)
 
-Not a kingdom — more a pact of mutual defense and trade.
+Not a proper kingdom, more independent fiefdoms and micronations engaged in a pact of mutual defense and trade.
 
 - Merchant republics
     

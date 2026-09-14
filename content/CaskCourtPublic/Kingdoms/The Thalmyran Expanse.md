@@ -1,4 +1,4 @@
-(Strong but geographically separated — island chain or across a desert sea)
+(Strong but geographically separated, located across the great wind sea)
 
 An isolated maritime (or desert caravan) power.
 
