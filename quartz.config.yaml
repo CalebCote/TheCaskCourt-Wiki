@@ -166,6 +166,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      baseDir: "TheCaskCourt-Wiki"
     layout:
       position: left
       priority: 50
@@ -176,6 +178,8 @@ plugins:
       priority: 10
   - source: "@quartz-community/search"
     enabled: true
+    options:
+      baseDir: "TheCaskCourt-Wiki"
     layout:
       position: left
       priority: 20
