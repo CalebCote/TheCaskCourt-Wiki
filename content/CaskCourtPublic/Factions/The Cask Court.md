@@ -1,7 +1,11 @@
 The Cask Court is a centuries old merchant guild who have come to establish themselves as the standard for trade and conflict resolution. 
 
 ### History
-Originally started as a group of enterprising brewers and distillers, the group began attracting more wealthy and powerful individuals. Their standardization and forward thinking trade agreements along with their philanthropic work in helping settle disputes have earned the group a reputation extending to each corner of civilization.
+Initially founded as "The Brewers Guild", a small group of beer and cider brewers banded together to help quash inter-brewery conflicts, secure better negotiating power, share better brewing practices, and provide increased security for all it's members.
+
+The guild grew and began to eventually attract more affluent brewers and even winemakers, distillers, and other alcohol producers which then prompted the renaming of the guild to "The Cask Court".
+
+Their standardization and forward thinking trade agreements along with their philanthropic work in helping settle disputes have earned the group a reputation extending to each corner of civilization.
 ### Hierarchy
 The hierarchy follows as such, from least influential to most:
 - Guild-Affiliate
@@ -18,6 +22,4 @@ Some maintain peace and stability for purely financial reasons. Others have a so
 
 More fringe members that are trying to gain more of a prominent position within the court are beginning to suggest that a little strife and turmoil might be good for business...
 ### Other ventures
-While The Cask Court may have begun as only alcohol producers, they have adopted many other smaller guilds due to their structure and resources they can offer. 
-
-There is a significant yet lesser known link between the guild and the [[Luminism]] sect of [[The Communion of the Vine Eternal]]
+While The Cask Court may have begun as only alcohol producers, they have folded in many other smaller guilds due to their structure and resources they can offer. 
