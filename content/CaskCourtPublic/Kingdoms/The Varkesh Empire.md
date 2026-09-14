@@ -14,6 +14,6 @@ Often referred to as "The Imperium"
 
 They see themselves as guardians of tradition.
 
-Flavor: Stone fortresses, ironwood forests, wolf insignias, ancestral halls.
+Stone fortresses, ironwood forests, wolf insignias, ancestral halls.
 
-Tension: They believe Aurentine influence is slowly strangling their sovereignty.**
+Growing tensions to the tune of Aurentine influence is slowly strangling their sovereignty.

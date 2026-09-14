@@ -4,7 +4,7 @@
 
 ### Core Belief
 
-The dead watch the living. Dishonor weakens the living and shames the dead.
+The dead watch over the living. Dishonor weakens the living and shames the dead.
 
 ### Main Deity: **Hrothus, the Everwarden**
 

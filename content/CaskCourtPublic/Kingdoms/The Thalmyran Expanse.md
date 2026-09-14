@@ -11,13 +11,4 @@ An isolated maritime (or desert caravan) power.
 
 They rarely involve themselves in continental politics unless trade routes are threatened.
 
-Flavor options:
-
-- Volcanic island empire with storm-callers.
-    
-- Desert glass cities built around oasis seals.
-    
-- A ring of storm-lashed cliffs guarding an inland paradise.
-    
-
-They might have ancient records about the seals others have forgotten.
+Volcanic island empire with storm-callers, desert glass cities built around oasis, a ring of storm-lashed cliffs guarding inland paradise.

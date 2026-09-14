@@ -18,9 +18,7 @@ Not fixed gods — more like **Cosmic Forces**:
     
 
 ### Clergy Role
-
-- Seal historians (maybe unknowingly)
-    
+ 
 - Astronomers
     
 - Dream interpreters

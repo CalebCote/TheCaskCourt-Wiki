@@ -2,9 +2,9 @@
 **Theme:** Transformation, patience, legacy
 ### Core Belief
 
-Fermentation is sacred transformation — decay into something refined.
+Fermentation is sacred transformation, decay into something refined.
 
-Wine = Civilization conquering chaos.
+The invention of wine is a sacred mark of civilization conquering chaos.
 ### Deity: The Great Mother
 
 God of:
@@ -24,7 +24,7 @@ A glowing matriarchal figure pouring a jug of wine.
 
 Promotes:
 
-- Moderation (publicly)
+- Moderation
     
 - Celebration
     

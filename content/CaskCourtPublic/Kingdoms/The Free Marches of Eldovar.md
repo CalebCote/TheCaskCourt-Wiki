@@ -13,8 +13,5 @@ Not a kingdom — more a pact of mutual defense and trade.
 
 They argue constantly but unite against outside aggression.
 
-This is a perfect starting region for your party.
+Open markets, patchwork heraldry, festivals, independent attitudes.
 
-Flavor: Open markets, patchwork heraldry, festivals, independent attitudes.
-
-They have the weakest centralized response if the seals begin failing.
