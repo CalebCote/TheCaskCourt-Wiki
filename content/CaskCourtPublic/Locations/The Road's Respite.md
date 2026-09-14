@@ -1,0 +1,1 @@
+An inn halfway between [[Avenford]] and [[Tilbury]]. The only thing near it is the hamlet called Rumult, containing farmers and other tradespeople who get most of their business from travelers, otherwise they primarily trade goods and services amongst themselves.
