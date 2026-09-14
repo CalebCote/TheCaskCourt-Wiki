@@ -25,14 +25,14 @@ jobs:
         with:
           node-version: lts/*
       - name: Install dependencies
-        working-directory: ./TheCaskCourt-Wiki
+        working-directory: TheCaskCourt-Wiki
         run: npm ci
       - name: Build site
-        working-directory: ./TheCaskCourt-Wiki
+        working-directory: TheCaskCourt-Wiki
         run: npx quartz build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ./TheCaskCourt-Wiki/public
+          path: TheCaskCourt-Wiki/public
 
   deploy:
     needs: build
