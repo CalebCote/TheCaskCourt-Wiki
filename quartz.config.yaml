@@ -7,8 +7,8 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: CalebCote.github.io
-  baseDir: TheCaskCourt-Wiki
+  baseUrl: CalebCote.github.io/TheCaskCourt-Wiki
+  # baseDir: TheCaskCourt-Wiki
   ignorePatterns:
     - private
     - templates
@@ -140,22 +140,22 @@ plugins:
       display: all
   - source: "@quartz-community/alias-redirects"
     enabled: true
-    options:
-      baseDir: "TheCaskCourt-Wiki"
+    # options:
+      # baseDir: "TheCaskCourt-Wiki"
   - source: "@quartz-community/content-index"
     enabled: true
     options:
       enableSiteMap: true
       enableRSS: true
-      baseDir: "TheCaskCourt-Wiki"
+      # baseDir: "TheCaskCourt-Wiki"
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
     enabled: true
   - source: "@quartz-community/cname"
     enabled: true
-    options:
-      baseDir: "TheCaskCourt-Wiki"
+    # options:
+      # baseDir: "TheCaskCourt-Wiki"
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
@@ -166,8 +166,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
-    options:
-      baseDir: "TheCaskCourt-Wiki"
+    # options:
+      # baseDir: "TheCaskCourt-Wiki"
     layout:
       position: left
       priority: 50
