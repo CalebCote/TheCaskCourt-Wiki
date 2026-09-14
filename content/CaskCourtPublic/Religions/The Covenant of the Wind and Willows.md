@@ -2,7 +2,6 @@
 **Type:** Folk faith / decentralized worship  
 **Theme:** Community, survival, local spirits
 
-### No Main Deity, many minor gods
 ### Core Belief
 
 Divinity lives in:
@@ -16,12 +15,14 @@ Divinity lives in:
 - Town founders
     
 
+### No Main Deity, many localized gods
 ### Divine Figures
 
 Thousands of local saints, spirits, and guardian figures.
 
 ### Clergy Role
 
+Varies widely based on the traditions of each town:
 - Festival leaders
     
 - Midwives

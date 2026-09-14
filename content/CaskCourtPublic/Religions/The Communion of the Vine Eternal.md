@@ -1,5 +1,6 @@
 **Type**: Sect of Luminism
 **Theme:** Transformation, patience, legacy
+
 ### Core Belief
 
 Fermentation is sacred transformation, decay into something refined.

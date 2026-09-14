@@ -4,11 +4,11 @@
 
 ### Core Belief
 
-Civilizations rise and fall like tides. Nothing is permanent — and that is sacred.
+Civilizations rise and fall like tides. Nothing is permanent and thus it is sacred.
 
 ### Divine Structure
 
-Not fixed gods — more like **Cosmic Forces**:
+Not fixed gods, more like **Great Cosmic Forces**:
 
 - The First Flame (creation)
     
